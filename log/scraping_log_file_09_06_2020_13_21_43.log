@@ -1,0 +1,847 @@
+2020-06-09 13:21:45,511 - root - INFO - Browser initiated
+2020-06-09 13:21:45,519 - root - INFO - Inputs recieved
+2020-06-09 13:21:45,705 - root - INFO - Printing into csv done
+2020-06-09 13:25:17,664 - root - INFO - Browser initiated
+2020-06-09 13:25:17,683 - root - INFO - Inputs recieved
+2020-06-09 13:28:05,586 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:05,922 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:06,298 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:06,429 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:06,484 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:06,500 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 13:28:06,503 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:06,964 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:07,321 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:07,772 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:08,204 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:08,625 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:09,089 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:09,445 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:09,808 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:10,202 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:10,624 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:10,928 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:11,038 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:11,042 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:11,113 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 13:28:11,131 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:11,588 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:11,802 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:11,950 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:28:15,529 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:15,676 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:15,718 - root - INFO - https://www.walmart.com/ip/51989166 completed
+2020-06-09 13:28:15,796 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:17,239 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:17,393 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:17,448 - root - INFO - https://www.walmart.com/ip/55404770 completed
+2020-06-09 13:28:17,517 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:18,521 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:18,681 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:18,760 - root - INFO - https://www.walmart.com/ip/11081994 completed
+2020-06-09 13:28:18,804 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:20,252 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:20,329 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:20,352 - root - INFO - https://www.walmart.com/ip/10294146 completed
+2020-06-09 13:28:20,355 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:22,110 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:22,251 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:22,297 - root - INFO - https://www.walmart.com/ip/12166857 completed
+2020-06-09 13:28:22,346 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:22,576 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:22,705 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:22,795 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:22,833 - root - INFO - https://www.walmart.com/ip/740038955 completed
+2020-06-09 13:28:22,929 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:22,932 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:22,980 - root - INFO - https://www.walmart.com/ip/895635329 completed
+2020-06-09 13:28:23,024 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:23,998 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:24,389 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:24,421 - root - INFO - https://www.walmart.com/ip/12167271 completed
+2020-06-09 13:28:24,435 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:24,863 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:24,925 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:24,965 - root - INFO - https://www.walmart.com/ip/43269788 completed
+2020-06-09 13:28:24,985 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:25,430 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:25,580 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:25,610 - root - INFO - https://www.walmart.com/ip/748939248 completed
+2020-06-09 13:28:25,638 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:25,736 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:25,829 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:25,870 - root - INFO - https://www.walmart.com/ip/10449572 completed
+2020-06-09 13:28:25,898 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:25,966 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:26,063 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:26,089 - root - INFO - https://www.walmart.com/ip/31956103 completed
+2020-06-09 13:28:26,127 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:26,470 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:26,546 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:26,576 - root - INFO - https://www.walmart.com/ip/29029322 completed
+2020-06-09 13:28:26,597 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:26,740 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:26,788 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:26,875 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:26,914 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:26,924 - root - INFO - https://www.walmart.com/ip/10805058 completed
+2020-06-09 13:28:26,935 - root - INFO - https://www.walmart.com/ip/38389474 completed
+2020-06-09 13:28:26,937 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:26,939 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:27,013 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:27,059 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:27,072 - root - INFO - https://www.walmart.com/ip/10801451 completed
+2020-06-09 13:28:27,079 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:27,147 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:27,199 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:27,210 - root - INFO - https://www.walmart.com/ip/10309582 completed
+2020-06-09 13:28:27,216 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:27,295 - root - INFO - Title done Aveeno Baby Eczema Therapy Moisturizing Cream with Natural Oatmeal, 7.3 oz
+2020-06-09 13:28:27,358 - root - INFO - categories done Baby, Diapering, Baby Oils & Lotions
+2020-06-09 13:28:27,376 - root - INFO - https://www.walmart.com/ip/19758118 completed
+2020-06-09 13:28:27,379 - root - INFO - 0 number of urls printed
+2020-06-09 13:28:31,211 - root - INFO - Title done Aveeno Daily Moisturizing Body Wash with Soothing Oat, 33 fl. oz
+2020-06-09 13:28:31,252 - root - INFO - categories done Personal Care, Bath & Body, Body Wash & Shower Gel
+2020-06-09 13:28:31,259 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 13:28:31,263 - root - INFO - 0 number of urls printed
+2020-06-09 13:29:43,166 - root - INFO - Title done Aveeno Positively Radiant Gylcolic Acid Face Treatment, 5 oz
+2020-06-09 13:29:43,213 - root - INFO - categories done Beauty, Dermatologist Recommended, Dermatologist Recommended Skin Concerns, Dermatologist Recommended Dry Skin, Dermatologist Recommended Facial Cleansers Dry Skin
+2020-06-09 13:29:43,223 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 13:29:43,225 - root - INFO - 0 number of urls printed
+2020-06-09 13:30:59,679 - root - INFO - Title done Value Pack, Neutrogena Hydrating Facial Towelettes, 25 Count
+2020-06-09 13:30:59,713 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Makeup Removers
+2020-06-09 13:30:59,721 - root - INFO - https://www.walmart.com/ip/118166015 completed
+2020-06-09 13:30:59,723 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:05,288 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:06,000 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:06,004 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:06,007 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:06,175 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:08,993 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:31:09,079 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:31:09,096 - root - INFO - https://www.walmart.com/ip/10308781 completed
+2020-06-09 13:31:09,108 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:10,619 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:31:10,694 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:31:10,705 - root - INFO - https://www.walmart.com/ip/14272822 completed
+2020-06-09 13:31:10,719 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:10,964 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:31:11,028 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:31:11,045 - root - INFO - https://www.walmart.com/ip/311560112 completed
+2020-06-09 13:31:11,059 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:11,143 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:31:11,232 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:31:11,239 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:31:11,305 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:31:11,344 - root - INFO - https://www.walmart.com/ip/35735968 completed
+2020-06-09 13:31:11,356 - root - INFO - https://www.walmart.com/ip/43172722 completed
+2020-06-09 13:31:11,361 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:31:11,366 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:11,369 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:11,428 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:31:11,439 - root - INFO - https://www.walmart.com/ip/106723200 completed
+2020-06-09 13:31:11,442 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:13,366 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:14,263 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:14,265 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:14,268 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:14,274 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:14,478 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:14,600 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:14,826 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:15,028 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:15,225 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:31:18,894 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:19,001 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:19,033 - root - INFO - https://www.walmart.com/ip/14913427 completed
+2020-06-09 13:31:19,042 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:23,527 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:23,638 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:23,684 - root - INFO - https://www.walmart.com/ip/864203665 completed
+2020-06-09 13:31:23,733 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:24,337 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:24,425 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:24,438 - root - INFO - https://www.walmart.com/ip/55525191 completed
+2020-06-09 13:31:24,464 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:24,804 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:24,874 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:24,967 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:25,009 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:25,084 - root - INFO - https://www.walmart.com/ip/196984565 completed
+2020-06-09 13:31:25,094 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:25,119 - root - INFO - https://www.walmart.com/ip/556085143 completed
+2020-06-09 13:31:25,134 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:25,242 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:25,247 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:25,269 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:25,345 - root - INFO - https://www.walmart.com/ip/12440674 completed
+2020-06-09 13:31:25,390 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:25,406 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:25,433 - root - INFO - https://www.walmart.com/ip/11550184 completed
+2020-06-09 13:31:25,500 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:25,502 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:25,572 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:25,593 - root - INFO - https://www.walmart.com/ip/783828627 completed
+2020-06-09 13:31:25,610 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:25,694 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:25,748 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:25,761 - root - INFO - https://www.walmart.com/ip/21652312 completed
+2020-06-09 13:31:25,773 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:25,860 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:25,917 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:25,928 - root - INFO - https://www.walmart.com/ip/998824217 completed
+2020-06-09 13:31:25,937 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:26,015 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 13:31:26,067 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:31:26,076 - root - INFO - https://www.walmart.com/ip/14272832 completed
+2020-06-09 13:31:26,079 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:26,561 - root - INFO - Title done Clean & Clear Morning Burst Boost Body Wash, Mango and Papaya, 16 Fluid Ounce
+2020-06-09 13:31:26,611 - root - INFO - categories done Personal Care, Bath & Body, Body Wash & Shower Gel
+2020-06-09 13:31:26,618 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 13:31:26,620 - root - INFO - 0 number of urls printed
+2020-06-09 13:31:58,140 - root - INFO - Title done Neutrogena Healthy Skin Pressed Powder, Light to Medium 30,.34 oz
+2020-06-09 13:31:58,178 - root - INFO - categories done Beauty, Makeup, Face Makeup, Setting Powder, Pressed Powder
+2020-06-09 13:31:58,186 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 13:31:58,187 - root - INFO - 0 number of urls printed
+2020-06-09 13:32:05,671 - root - INFO - Title done Johnson’s Sleepy Time Baby Gift Set, 3 Items
+2020-06-09 13:32:05,726 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:32:05,732 - root - INFO - https://www.walmart.com/ip/16935767 completed
+2020-06-09 13:32:05,735 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:15,894 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:16,076 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:16,253 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:16,428 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:16,603 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:17,976 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:34:18,028 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:34:18,038 - root - INFO - https://www.walmart.com/ip/999149569 completed
+2020-06-09 13:34:18,041 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:19,123 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:34:19,181 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:34:19,194 - root - INFO - https://www.walmart.com/ip/22178222 completed
+2020-06-09 13:34:19,203 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:20,104 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:34:20,150 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:34:20,162 - root - INFO - https://www.walmart.com/ip/15610961 completed
+2020-06-09 13:34:20,172 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:20,400 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:34:20,453 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:34:20,463 - root - INFO - https://www.walmart.com/ip/21009036 completed
+2020-06-09 13:34:20,468 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:20,527 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:34:20,575 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:34:20,585 - root - INFO - https://www.walmart.com/ip/845739171 completed
+2020-06-09 13:34:20,590 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:20,708 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:34:20,769 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:34:20,781 - root - INFO - https://www.walmart.com/ip/14089523 completed
+2020-06-09 13:34:20,785 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:26,527 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:34:26,566 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:34:26,573 - root - INFO - https://www.walmart.com/ip/51989167 completed
+2020-06-09 13:34:26,576 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:31,955 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:32,158 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:32,367 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:32,559 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:32,759 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:32,938 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:33,134 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:33,334 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:33,528 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:33,731 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:34:35,415 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:35,506 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:35,529 - root - INFO - https://www.walmart.com/ip/47431330 completed
+2020-06-09 13:34:35,560 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:39,393 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:39,514 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:39,529 - root - INFO - https://www.walmart.com/ip/12518994 completed
+2020-06-09 13:34:39,553 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:40,892 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:40,951 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:40,966 - root - INFO - https://www.walmart.com/ip/14284744 completed
+2020-06-09 13:34:40,980 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:41,480 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:41,557 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:41,600 - root - INFO - https://www.walmart.com/ip/46024143 completed
+2020-06-09 13:34:41,630 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:42,458 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:42,546 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:42,575 - root - INFO - https://www.walmart.com/ip/261496788 completed
+2020-06-09 13:34:42,604 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:42,708 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:42,767 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:42,781 - root - INFO - https://www.walmart.com/ip/10449599 completed
+2020-06-09 13:34:42,790 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:43,086 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:43,158 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:43,181 - root - INFO - https://www.walmart.com/ip/164963385 completed
+2020-06-09 13:34:43,185 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:43,243 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:43,299 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:43,308 - root - INFO - https://www.walmart.com/ip/34620533 completed
+2020-06-09 13:34:43,313 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:43,460 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:43,521 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:43,531 - root - INFO - https://www.walmart.com/ip/43493667 completed
+2020-06-09 13:34:43,538 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:43,592 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:43,630 - root - INFO - Title done Johnson's CottonTouch Baby Wash & Shampoo, Twin Pack, 2 x 27.1 fl. oz
+2020-06-09 13:34:43,680 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:43,718 - root - INFO - https://www.walmart.com/ip/10805059 completed
+2020-06-09 13:34:43,727 - root - INFO - categories done Baby, Health & Safety, Baby Bath, Baby Shampoos & Body Washes
+2020-06-09 13:34:43,730 - root - INFO - 0 number of urls printed
+2020-06-09 13:34:43,736 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 13:34:43,742 - root - INFO - 0 number of urls printed
+2020-06-09 13:35:12,803 - root - INFO - Title done Neutrogena Hydro Boost Hydrating Makeup Stick, Classic Ivory, 0.29 oz
+2020-06-09 13:35:12,838 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Stick Foundation
+2020-06-09 13:35:12,843 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 13:35:12,844 - root - INFO - 0 number of urls printed
+2020-06-09 13:35:19,051 - root - INFO - Title done Johnson & Johnson Clean & Clear Advantage Acne Scrub, 5 oz
+2020-06-09 13:35:19,095 - root - INFO - categories done Beauty, Skin Care, Best Acne Treatments 2020, Acne Cleansers
+2020-06-09 13:35:19,103 - root - INFO - https://www.walmart.com/ip/748973690 completed
+2020-06-09 13:35:19,104 - root - INFO - 0 number of urls printed
+2020-06-09 13:35:33,501 - root - INFO - Title done Aveeno Baby Continuous Protection Zinc Oxide Mineral Sunscreen, SPF 50
+2020-06-09 13:35:33,539 - root - INFO - categories done Personal Care, Sun Care, Sunscreen
+2020-06-09 13:35:33,544 - root - INFO - https://www.walmart.com/ip/20886516 completed
+2020-06-09 13:35:33,546 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:31,358 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:31,566 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:31,781 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:31,949 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:33,518 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 13:36:33,598 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 13:36:33,619 - root - INFO - https://www.walmart.com/ip/642807789 completed
+2020-06-09 13:36:33,633 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:35,733 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 13:36:35,794 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 13:36:35,816 - root - INFO - https://www.walmart.com/ip/960924793 completed
+2020-06-09 13:36:35,828 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:36,233 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 13:36:36,296 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 13:36:36,311 - root - INFO - https://www.walmart.com/ip/39365572 completed
+2020-06-09 13:36:36,325 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:36,483 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 13:36:36,546 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 13:36:36,559 - root - INFO - https://www.walmart.com/ip/890256767 completed
+2020-06-09 13:36:36,648 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 13:36:36,652 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:36,751 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 13:36:36,758 - root - INFO - https://www.walmart.com/ip/527899854 completed
+2020-06-09 13:36:36,760 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:39,035 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:36:39,074 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:36:39,081 - root - INFO - https://www.walmart.com/ip/22178220 completed
+2020-06-09 13:36:39,083 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:44,783 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:45,797 - root - INFO - Title done Neutrogena Makeup Removing Facial Towelettes, 25 Count
+2020-06-09 13:36:45,860 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Makeup Removers
+2020-06-09 13:36:45,870 - root - INFO - https://www.walmart.com/ip/10294074 completed
+2020-06-09 13:36:45,875 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:46,144 - root - INFO - Title done Neutrogena Makeup Removing Facial Towelettes, 25 Count
+2020-06-09 13:36:46,184 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Makeup Removers
+2020-06-09 13:36:46,194 - root - INFO - https://www.walmart.com/ip/483034919 completed
+2020-06-09 13:36:46,196 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:51,475 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:51,706 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:51,926 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:52,146 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:52,330 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:52,532 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:52,755 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:52,975 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:36:56,130 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:36:56,236 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:36:56,276 - root - INFO - https://www.walmart.com/ip/499187609 completed
+2020-06-09 13:36:56,299 - root - INFO - 0 number of urls printed
+2020-06-09 13:36:58,929 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:36:59,017 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:36:59,054 - root - INFO - https://www.walmart.com/ip/869283847 completed
+2020-06-09 13:36:59,084 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:00,646 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:37:00,719 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:37:00,744 - root - INFO - https://www.walmart.com/ip/20659592 completed
+2020-06-09 13:37:00,754 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:00,952 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:37:01,026 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:37:01,060 - root - INFO - https://www.walmart.com/ip/21854480 completed
+2020-06-09 13:37:01,072 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:01,463 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:37:01,524 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:37:01,541 - root - INFO - https://www.walmart.com/ip/813866135 completed
+2020-06-09 13:37:01,546 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:01,671 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:37:01,719 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:37:01,733 - root - INFO - https://www.walmart.com/ip/22178221 completed
+2020-06-09 13:37:01,739 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:01,870 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:37:01,936 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:37:01,947 - root - INFO - https://www.walmart.com/ip/17215448 completed
+2020-06-09 13:37:01,956 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:02,051 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:37:02,110 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:37:02,120 - root - INFO - https://www.walmart.com/ip/10805067 completed
+2020-06-09 13:37:02,124 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:02,189 - root - INFO - Title done Listerine Ultraclean Antiseptic Mouthwash, Arctic Mint, 500 ml
+2020-06-09 13:37:02,241 - root - INFO - categories done Personal Care, Personal Care by Brand, Listerine
+2020-06-09 13:37:02,250 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 13:37:02,252 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:22,221 - root - INFO - Title done Aveeno Ultra Calming Face Wipes, 25 Count
+2020-06-09 13:37:22,260 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Makeup Removers
+2020-06-09 13:37:22,266 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 13:37:22,267 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:27,104 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:37:27,847 - root - INFO - Title done Neutrogena Cheeky Wink Flushed Blush for a Sheer Natural Flush of Color, Shade in First Crush, 0.15 oz
+2020-06-09 13:37:27,888 - root - INFO - categories done Beauty, Makeup, Face Makeup, Face Makeup Brands, Neutrogena Face Makeup
+2020-06-09 13:37:27,894 - root - INFO - https://www.walmart.com/ip/47431329 completed
+2020-06-09 13:37:27,896 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:33,728 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:37:39,757 - root - INFO - Title done Lubriderm Daily Moisture Hydrating Lotion with Vitamin B5, 24 fl. oz
+2020-06-09 13:37:39,800 - root - INFO - categories done Personal Care, Bath & Body, Body Lotions & Creams
+2020-06-09 13:37:39,806 - root - INFO - https://www.walmart.com/ip/21695235 completed
+2020-06-09 13:37:39,807 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:44,868 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:37:50,581 - root - INFO - Title done Aveeno Baby Calming Comfort Bath & Lotion Set for Bedtime, 2 Piece Set
+2020-06-09 13:37:50,620 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 13:37:50,626 - root - INFO - https://www.walmart.com/ip/49550251 completed
+2020-06-09 13:37:50,627 - root - INFO - 0 number of urls printed
+2020-06-09 13:37:55,525 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:30,118 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:30,300 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:30,494 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:30,680 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:30,876 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:31,067 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:31,273 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:31,462 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:31,648 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:32,735 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:32,740 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:32,742 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:32,745 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:32,748 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:38:34,963 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:35,088 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:35,157 - root - INFO - https://www.walmart.com/ip/19528900 completed
+2020-06-09 13:38:35,162 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:39,532 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:39,633 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:39,663 - root - INFO - https://www.walmart.com/ip/47431326 completed
+2020-06-09 13:38:39,685 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:40,122 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:40,191 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:40,219 - root - INFO - https://www.walmart.com/ip/10818516 completed
+2020-06-09 13:38:40,243 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:42,515 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:42,603 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:42,645 - root - INFO - https://www.walmart.com/ip/638900167 completed
+2020-06-09 13:38:42,720 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:42,794 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:42,866 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:42,876 - root - INFO - https://www.walmart.com/ip/21917258 completed
+2020-06-09 13:38:42,911 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:43,319 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:43,383 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:43,399 - root - INFO - https://www.walmart.com/ip/113811027 completed
+2020-06-09 13:38:43,410 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:44,130 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:44,159 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:44,267 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:44,271 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:44,296 - root - INFO - https://www.walmart.com/ip/10801429 completed
+2020-06-09 13:38:44,303 - root - INFO - https://www.walmart.com/ip/22153348 completed
+2020-06-09 13:38:44,320 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:44,348 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:44,350 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:44,416 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:44,538 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:44,539 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:44,573 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:44,612 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:44,621 - root - INFO - https://www.walmart.com/ip/51233404 completed
+2020-06-09 13:38:44,636 - root - INFO - https://www.walmart.com/ip/17206680 completed
+2020-06-09 13:38:44,676 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:44,726 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:44,729 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:44,730 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:44,736 - root - INFO - https://www.walmart.com/ip/107970786 completed
+2020-06-09 13:38:44,743 - root - INFO - https://www.walmart.com/ip/16940604 completed
+2020-06-09 13:38:44,782 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:44,789 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:44,814 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:44,863 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:44,880 - root - INFO - https://www.walmart.com/ip/799826976 completed
+2020-06-09 13:38:44,885 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:45,052 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:45,087 - root - INFO - Title done Aveeno Nourish+ Shine Illuminating Shampoo For Shiny Hair, 10.5 fl. oz
+2020-06-09 13:38:45,192 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:45,204 - root - INFO - categories done Beauty, Beauty by Top Brands, Aveeno, Aveeno Hair Care
+2020-06-09 13:38:45,215 - root - INFO - https://www.walmart.com/ip/13399609 completed
+2020-06-09 13:38:45,222 - root - INFO - https://www.walmart.com/ip/156184739 completed
+2020-06-09 13:38:45,223 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:45,236 - root - INFO - 0 number of urls printed
+2020-06-09 13:38:45,284 - root - INFO - Printing into csv done
+2020-06-09 13:44:47,865 - root - INFO - Browser initiated
+2020-06-09 13:44:47,877 - root - INFO - Inputs recieved
+2020-06-09 13:48:57,454 - root - INFO - Browser initiated
+2020-06-09 13:48:57,464 - root - INFO - Inputs recieved
+2020-06-09 13:49:38,529 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:49:38,870 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:49:39,214 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:49:39,574 - root - INFO - Title done Aveeno Daily Moisturizing Body Wash with Soothing Oat, 33 fl. oz
+2020-06-09 13:49:39,626 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:49:39,660 - root - INFO - categories done Personal Care, Bath & Body, Body Wash & Shower Gel
+2020-06-09 13:49:39,724 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 13:49:39,741 - root - INFO - 0 number of urls printed
+2020-06-09 13:49:43,523 - root - INFO - Title done Aveeno Daily Moisturizing Body Wash with Soothing Oat, 33 fl. oz
+2020-06-09 13:49:43,589 - root - INFO - categories done Personal Care, Bath & Body, Body Wash & Shower Gel
+2020-06-09 13:49:43,612 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 13:49:43,619 - root - INFO - 0 number of urls printed
+2020-06-09 13:49:43,999 - root - INFO - Title done Aveeno Daily Moisturizing Body Wash with Soothing Oat, 33 fl. oz
+2020-06-09 13:49:44,069 - root - INFO - categories done Personal Care, Bath & Body, Body Wash & Shower Gel
+2020-06-09 13:49:44,088 - root - INFO - https://www.walmart.com/ip/999149569 completed
+2020-06-09 13:49:44,101 - root - INFO - 0 number of urls printed
+2020-06-09 13:49:44,318 - root - INFO - Title done Aveeno Daily Moisturizing Body Wash with Soothing Oat, 33 fl. oz
+2020-06-09 13:49:44,368 - root - INFO - categories done Personal Care, Bath & Body, Body Wash & Shower Gel
+2020-06-09 13:49:44,382 - root - INFO - https://www.walmart.com/ip/118166015 completed
+2020-06-09 13:49:44,387 - root - INFO - 0 number of urls printed
+2020-06-09 13:49:44,474 - root - INFO - Title done Aveeno Daily Moisturizing Body Wash with Soothing Oat, 33 fl. oz
+2020-06-09 13:49:44,514 - root - INFO - categories done Personal Care, Bath & Body, Body Wash & Shower Gel
+2020-06-09 13:49:44,521 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 13:49:44,523 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:12,856 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:13,120 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:13,365 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:13,649 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:13,758 - root - INFO - Title done Neutrogena Neutrogena Triple Repair Leave-In Treatment, 5.1 oz
+2020-06-09 13:50:13,814 - root - INFO - categories done Beauty, Beauty by Top Brands, Neutrogena, Neutrogena Hair Care
+2020-06-09 13:50:13,828 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 13:50:13,836 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:15,804 - root - INFO - Title done Neutrogena Neutrogena Triple Repair Leave-In Treatment, 5.1 oz
+2020-06-09 13:50:15,861 - root - INFO - categories done Beauty, Beauty by Top Brands, Neutrogena, Neutrogena Hair Care
+2020-06-09 13:50:15,878 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 13:50:15,893 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:16,326 - root - INFO - Title done Neutrogena Neutrogena Triple Repair Leave-In Treatment, 5.1 oz
+2020-06-09 13:50:16,385 - root - INFO - categories done Beauty, Beauty by Top Brands, Neutrogena, Neutrogena Hair Care
+2020-06-09 13:50:16,398 - root - INFO - https://www.walmart.com/ip/20886516 completed
+2020-06-09 13:50:16,406 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:16,458 - root - INFO - Title done Neutrogena Neutrogena Triple Repair Leave-In Treatment, 5.1 oz
+2020-06-09 13:50:16,516 - root - INFO - categories done Beauty, Beauty by Top Brands, Neutrogena, Neutrogena Hair Care
+2020-06-09 13:50:16,528 - root - INFO - https://www.walmart.com/ip/16935767 completed
+2020-06-09 13:50:16,532 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:16,680 - root - INFO - Title done Neutrogena Neutrogena Triple Repair Leave-In Treatment, 5.1 oz
+2020-06-09 13:50:16,737 - root - INFO - categories done Beauty, Beauty by Top Brands, Neutrogena, Neutrogena Hair Care
+2020-06-09 13:50:16,745 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 13:50:16,747 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:43,650 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:43,888 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:44,084 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:44,293 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:50:45,841 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:50:45,908 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:50:45,928 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 13:50:45,939 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:47,253 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:50:47,308 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:50:47,327 - root - INFO - https://www.walmart.com/ip/55404770 completed
+2020-06-09 13:50:47,351 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:47,732 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:50:47,790 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:50:47,805 - root - INFO - https://www.walmart.com/ip/21695235 completed
+2020-06-09 13:50:47,817 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:47,995 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:50:48,048 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:50:48,062 - root - INFO - https://www.walmart.com/ip/748973690 completed
+2020-06-09 13:50:48,069 - root - INFO - 0 number of urls printed
+2020-06-09 13:50:48,161 - root - INFO - Title done Neutrogena Retinol Healthy Skin Enhancer, Medium to Olive 60, 1 fl. oz
+2020-06-09 13:50:48,217 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Medium Shades
+2020-06-09 13:50:48,224 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 13:50:48,226 - root - INFO - 0 number of urls printed
+2020-06-09 13:51:13,652 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:51:13,846 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:51:14,033 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:51:14,213 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:51:15,929 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:51:15,984 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:51:15,996 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 13:51:16,000 - root - INFO - 0 number of urls printed
+2020-06-09 13:51:17,239 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:51:17,300 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:51:17,321 - root - INFO - https://www.walmart.com/ip/10308781 completed
+2020-06-09 13:51:17,329 - root - INFO - 0 number of urls printed
+2020-06-09 13:51:17,613 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:51:17,663 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:51:17,675 - root - INFO - https://www.walmart.com/ip/51989166 completed
+2020-06-09 13:51:17,683 - root - INFO - 0 number of urls printed
+2020-06-09 13:51:17,879 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:51:17,935 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:51:17,948 - root - INFO - https://www.walmart.com/ip/47431329 completed
+2020-06-09 13:51:17,952 - root - INFO - 0 number of urls printed
+2020-06-09 13:51:18,001 - root - INFO - Title done Johnson & Johnson Aveeno Active Naturals Smart Essentials Daily Detoxifying Scrub, 5 oz
+2020-06-09 13:51:18,045 - root - INFO - categories done Beauty, Skin Care, Facial Cleansers, Exfoliators, Aveeno Face Scrubs
+2020-06-09 13:51:18,051 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 13:51:18,054 - root - INFO - 0 number of urls printed
+2020-06-09 13:51:18,110 - root - INFO - Printing into csv done
+2020-06-09 13:55:12,224 - root - INFO - Browser initiated
+2020-06-09 13:55:12,232 - root - INFO - Inputs recieved
+2020-06-09 13:55:47,922 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:48,135 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:48,501 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:48,836 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:49,285 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:49,343 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:49,352 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:49,418 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 13:55:49,422 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:51,225 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:51,317 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:51,333 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:51,423 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 13:55:51,435 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:51,558 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:51,608 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:51,622 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:51,709 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 13:55:51,715 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:52,075 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:52,118 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:52,127 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:52,204 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 13:55:52,208 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:52,287 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:52,337 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:52,343 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:52,407 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 13:55:52,409 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:17,314 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:17,628 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:17,895 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:17,953 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:17,958 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:17,966 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:18,070 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 13:56:18,077 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:18,238 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:19,779 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:19,832 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:19,843 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:19,907 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 13:56:19,911 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:20,679 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:20,733 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:20,741 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:20,800 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 13:56:20,802 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:21,058 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:21,105 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:21,114 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:21,167 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 13:56:21,172 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:21,214 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:21,254 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:21,261 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:21,318 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 13:56:21,321 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:21,362 - root - INFO - Printing into csv done
+2020-06-09 13:57:43,401 - root - INFO - Browser initiated
+2020-06-09 13:57:43,408 - root - INFO - Inputs recieved
+2020-06-09 13:58:21,675 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:22,071 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:22,441 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:22,867 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:23,244 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:23,313 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:23,328 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:23,402 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 13:58:23,411 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:25,324 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:25,386 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:25,399 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:25,476 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 13:58:25,488 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:26,028 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:26,099 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:26,112 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:26,187 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 13:58:26,196 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:26,386 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:26,434 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:26,447 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:26,524 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 13:58:26,528 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:26,582 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:26,631 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:26,639 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:26,707 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 13:58:26,708 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:56,564 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:56,878 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:57,231 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:57,495 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:58:57,548 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:58:57,558 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:57,563 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:57,635 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 13:58:57,674 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:59,919 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:58:59,968 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:58:59,979 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,052 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 13:59:00,065 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,238 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:59:00,295 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:59:00,308 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,398 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 13:59:00,400 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,561 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:59:00,613 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:59:00,624 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,682 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 13:59:00,687 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,806 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:59:00,848 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:59:00,853 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,909 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 13:59:00,911 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,951 - root - INFO - Printing into csv done
+2020-06-09 14:00:40,529 - root - INFO - Browser initiated
+2020-06-09 14:00:40,539 - root - INFO - Inputs recieved
+2020-06-09 14:01:16,593 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:16,890 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:17,235 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:17,587 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:19,027 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:19,078 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:19,097 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:19,128 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 14:01:19,135 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:19,783 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:19,835 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:19,847 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:19,870 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 14:01:19,875 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,086 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,211 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,224 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,246 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 14:01:20,252 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,705 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,757 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,773 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,804 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 14:01:20,810 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,887 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,947 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,956 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,984 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 14:01:20,987 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:50,849 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,038 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,242 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,473 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:52,747 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:52,791 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:52,802 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:52,828 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 14:01:52,835 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,331 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,384 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,396 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,422 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 14:01:54,427 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,523 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,571 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,582 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,609 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 14:01:54,613 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,757 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,798 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,807 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,827 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 14:01:54,829 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,886 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,932 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,941 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,962 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 14:01:54,964 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:55,000 - root - INFO - Printing into csv done
+2020-06-09 14:04:49,753 - root - INFO - Browser initiated
+2020-06-09 14:04:49,763 - root - INFO - Inputs recieved
+2020-06-09 14:07:18,894 - root - INFO - Browser initiated
+2020-06-09 14:07:18,900 - root - INFO - Inputs recieved
+2020-06-09 14:07:56,864 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,169 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,476 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,615 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:57,670 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:57,682 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:57,768 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 14:07:57,771 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,775 - root - INFO - 0 number of urls printed
+2020-06-09 14:07:59,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:59,164 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:59,177 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:59,243 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 14:07:59,247 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,170 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,187 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,256 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 14:08:00,262 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,443 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,493 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,504 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,574 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 14:08:00,577 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,756 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,799 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,805 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,872 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 14:08:00,873 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,911 - root - INFO - Printing into csv done

@@ -1,0 +1,120 @@
+2020-06-09 14:00:40,529 - root - INFO - Browser initiated
+2020-06-09 14:00:40,539 - root - INFO - Inputs recieved
+2020-06-09 14:01:16,593 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:16,890 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:17,235 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:17,587 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:19,027 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:19,078 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:19,097 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:19,128 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 14:01:19,135 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:19,783 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:19,835 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:19,847 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:19,870 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 14:01:19,875 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,086 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,211 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,224 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,246 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 14:01:20,252 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,705 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,757 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,773 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,804 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 14:01:20,810 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,887 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,947 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,956 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,984 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 14:01:20,987 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:50,849 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,038 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,242 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,473 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:52,747 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:52,791 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:52,802 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:52,828 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 14:01:52,835 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,331 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,384 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,396 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,422 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 14:01:54,427 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,523 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,571 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,582 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,609 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 14:01:54,613 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,757 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,798 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,807 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,827 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 14:01:54,829 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,886 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,932 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,941 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,962 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 14:01:54,964 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:55,000 - root - INFO - Printing into csv done
+2020-06-09 14:04:49,753 - root - INFO - Browser initiated
+2020-06-09 14:04:49,763 - root - INFO - Inputs recieved
+2020-06-09 14:07:18,894 - root - INFO - Browser initiated
+2020-06-09 14:07:18,900 - root - INFO - Inputs recieved
+2020-06-09 14:07:56,864 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,169 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,476 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,615 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:57,670 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:57,682 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:57,768 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 14:07:57,771 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,775 - root - INFO - 0 number of urls printed
+2020-06-09 14:07:59,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:59,164 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:59,177 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:59,243 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 14:07:59,247 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,170 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,187 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,256 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 14:08:00,262 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,443 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,493 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,504 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,574 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 14:08:00,577 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,756 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,799 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,805 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,872 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 14:08:00,873 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,911 - root - INFO - Printing into csv done

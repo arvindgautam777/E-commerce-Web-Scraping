@@ -1,0 +1,262 @@
+2020-06-09 13:55:12,224 - root - INFO - Browser initiated
+2020-06-09 13:55:12,232 - root - INFO - Inputs recieved
+2020-06-09 13:55:47,922 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:48,135 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:48,501 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:48,836 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:55:49,285 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:49,343 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:49,352 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:49,418 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 13:55:49,422 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:51,225 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:51,317 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:51,333 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:51,423 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 13:55:51,435 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:51,558 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:51,608 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:51,622 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:51,709 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 13:55:51,715 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:52,075 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:52,118 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:52,127 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:52,204 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 13:55:52,208 - root - INFO - 0 number of urls printed
+2020-06-09 13:55:52,287 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:55:52,337 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:55:52,343 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:55:52,407 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 13:55:52,409 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:17,314 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:17,628 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:17,895 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:17,953 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:17,958 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:17,966 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:18,070 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 13:56:18,077 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:18,238 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:56:19,779 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:19,832 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:19,843 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:19,907 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 13:56:19,911 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:20,679 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:20,733 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:20,741 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:20,800 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 13:56:20,802 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:21,058 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:21,105 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:21,114 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:21,167 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 13:56:21,172 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:21,214 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:56:21,254 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:56:21,261 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:56:21,318 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 13:56:21,321 - root - INFO - 0 number of urls printed
+2020-06-09 13:56:21,362 - root - INFO - Printing into csv done
+2020-06-09 13:57:43,401 - root - INFO - Browser initiated
+2020-06-09 13:57:43,408 - root - INFO - Inputs recieved
+2020-06-09 13:58:21,675 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:22,071 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:22,441 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:22,867 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:23,244 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:23,313 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:23,328 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:23,402 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 13:58:23,411 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:25,324 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:25,386 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:25,399 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:25,476 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 13:58:25,488 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:26,028 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:26,099 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:26,112 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:26,187 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 13:58:26,196 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:26,386 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:26,434 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:26,447 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:26,524 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 13:58:26,528 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:26,582 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 13:58:26,631 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 13:58:26,639 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:26,707 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 13:58:26,708 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:56,564 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:56,878 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:57,231 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:57,495 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:58:57,548 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:58:57,558 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:58:57,563 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 13:58:57,635 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 13:58:57,674 - root - INFO - 0 number of urls printed
+2020-06-09 13:58:59,919 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:58:59,968 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:58:59,979 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,052 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 13:59:00,065 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,238 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:59:00,295 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:59:00,308 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,398 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 13:59:00,400 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,561 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:59:00,613 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:59:00,624 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,682 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 13:59:00,687 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,806 - root - INFO - Title done Johnson's Baby Pure Cornstarch Powder With Magnolia Petals To Help Prevent Rashes, 15 Oz.
+2020-06-09 13:59:00,848 - root - INFO - categories done Personal Care, Bath & Body, Body Powder
+2020-06-09 13:59:00,853 - root - INFO -   Title Categories
+0                 
+2020-06-09 13:59:00,909 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 13:59:00,911 - root - INFO - 0 number of urls printed
+2020-06-09 13:59:00,951 - root - INFO - Printing into csv done
+2020-06-09 14:00:40,529 - root - INFO - Browser initiated
+2020-06-09 14:00:40,539 - root - INFO - Inputs recieved
+2020-06-09 14:01:16,593 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:16,890 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:17,235 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:17,587 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:19,027 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:19,078 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:19,097 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:19,128 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 14:01:19,135 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:19,783 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:19,835 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:19,847 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:19,870 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 14:01:19,875 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,086 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,211 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,224 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,246 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 14:01:20,252 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,705 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,757 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,773 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,804 - root - INFO - https://www.walmart.com/ip/12518995 completed
+2020-06-09 14:01:20,810 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:20,887 - root - INFO - Title done Neutrogena SkinClearing Oil-Free Liquid Foundation Acne Fighting, 40 Nude, 1 fl oz
+2020-06-09 14:01:20,947 - root - INFO - categories done Beauty, Makeup, Face Makeup, Foundation, Neutrogena Foundation Fair Shades
+2020-06-09 14:01:20,956 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:20,984 - root - INFO - https://www.walmart.com/ip/259995597 completed
+2020-06-09 14:01:20,987 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:50,849 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,038 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,242 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:51,473 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:01:52,747 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:52,791 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:52,802 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:52,828 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 14:01:52,835 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,331 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,384 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,396 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,422 - root - INFO - https://www.walmart.com/ip/21668366 completed
+2020-06-09 14:01:54,427 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,523 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,571 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,582 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,609 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 14:01:54,613 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,757 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,798 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,807 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,827 - root - INFO - https://www.walmart.com/ip/15611016 completed
+2020-06-09 14:01:54,829 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:54,886 - root - INFO - Title done Johnson's Baby Oil with Shea & Cocoa Butter, 14 fl. oz
+2020-06-09 14:01:54,932 - root - INFO - categories done Baby, Diapering, Baby Skin Care & Grooming
+2020-06-09 14:01:54,941 - root - INFO - Empty DataFrame
+Columns: []
+Index: []
+2020-06-09 14:01:54,962 - root - INFO - https://www.walmart.com/ip/16940620 completed
+2020-06-09 14:01:54,964 - root - INFO - 0 number of urls printed
+2020-06-09 14:01:55,000 - root - INFO - Printing into csv done
+2020-06-09 14:04:49,753 - root - INFO - Browser initiated
+2020-06-09 14:04:49,763 - root - INFO - Inputs recieved
+2020-06-09 14:07:18,894 - root - INFO - Browser initiated
+2020-06-09 14:07:18,900 - root - INFO - Inputs recieved
+2020-06-09 14:07:56,864 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,169 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,476 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,615 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:57,670 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:57,682 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:57,768 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 14:07:57,771 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,775 - root - INFO - 0 number of urls printed
+2020-06-09 14:07:59,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:59,164 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:59,177 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:59,243 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 14:07:59,247 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,170 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,187 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,256 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 14:08:00,262 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,443 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,493 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,504 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,574 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 14:08:00,577 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,756 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,799 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,805 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,872 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 14:08:00,873 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,911 - root - INFO - Printing into csv done

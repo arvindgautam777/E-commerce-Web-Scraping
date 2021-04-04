@@ -1,0 +1,39 @@
+2020-06-09 14:04:49,753 - root - INFO - Browser initiated
+2020-06-09 14:04:49,763 - root - INFO - Inputs recieved
+2020-06-09 14:07:18,894 - root - INFO - Browser initiated
+2020-06-09 14:07:18,900 - root - INFO - Inputs recieved
+2020-06-09 14:07:56,864 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,169 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,476 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,615 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:57,670 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:57,682 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:57,768 - root - INFO - https://www.walmart.com/ip/35326638 completed
+2020-06-09 14:07:57,771 - urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: 127.0.0.1
+2020-06-09 14:07:57,775 - root - INFO - 0 number of urls printed
+2020-06-09 14:07:59,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:07:59,164 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:07:59,177 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:07:59,243 - root - INFO - https://www.walmart.com/ip/12519000 completed
+2020-06-09 14:07:59,247 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,115 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,170 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,187 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,256 - root - INFO - https://www.walmart.com/ip/15747259 completed
+2020-06-09 14:08:00,262 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,443 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,493 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,504 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,574 - root - INFO - https://www.walmart.com/ip/10293849 completed
+2020-06-09 14:08:00,577 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,756 - root - INFO - Title done Johnson's No More Tangles Toddler Shampoo 2-In-1 Formula, 18 Oz.
+2020-06-09 14:08:00,799 - root - INFO - categories done Beauty, Hair Care, Shampoo, All Shampoo
+2020-06-09 14:08:00,805 - root - INFO -   Title Categories
+0                 
+2020-06-09 14:08:00,872 - root - INFO - https://www.walmart.com/ip/10309597 completed
+2020-06-09 14:08:00,873 - root - INFO - 0 number of urls printed
+2020-06-09 14:08:00,911 - root - INFO - Printing into csv done
